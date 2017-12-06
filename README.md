@@ -11,3 +11,4 @@ Components Collection
 - [ ] Use template projections for reusable components.  Add the possibility to pass options/parameters [Reference](https://stackoverflow.com/questions/35518141/angular-2-passing-parameters-to-constructor-throws-di-exception)
 - [ ] Make a seed
 - [ ] Try storing multiple apps in one project [Reference](https://github.com/angular/angular-cli/wiki/stories-multiple-apps)
+- [ ] Make expanding bottom border input as a component [Reference](https://css-tricks.com/text-input-expanding-bottom-border/?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=7fd00e162b024ec0ad31955aaba218f0&uid=198187738&nid=244+276893704)
