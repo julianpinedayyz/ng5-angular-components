@@ -15,3 +15,4 @@ Components Collection
 - [ ] Try to implement parcel.js [Reference](parceljs.org)
 - [ ] Try to implement Turbo [Reference](https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403)
 - [ ] Setup stub data on a server
+- [ ] Get more book references inside the README
