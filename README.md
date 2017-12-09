@@ -17,3 +17,4 @@ Components Collection
 - [ ] Setup stub data on a server
 - [ ] Get more book references inside the README
 - [ ] Understand and customize webpack [Reference](https://auth0.com/blog/webpack-a-gentle-introduction/)
+- [ ] Understand ngrx/effects
