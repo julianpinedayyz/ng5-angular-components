@@ -18,3 +18,4 @@ Components Collection
 - [ ] Get more book references inside the README
 - [ ] Understand and customize webpack [Reference](https://auth0.com/blog/webpack-a-gentle-introduction/)
 - [ ] Understand ngrx/effects
+- [ ] Try node prune [Reference](https://github.com/tj/node-prune/blob/master/Readme.md)
