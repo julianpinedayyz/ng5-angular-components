@@ -14,7 +14,7 @@ Components Collection
 - [ ] Make expanding bottom border input as a component [Reference](https://css-tricks.com/text-input-expanding-bottom-border/?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=7fd00e162b024ec0ad31955aaba218f0&uid=198187738&nid=244+276893704)
 - [ ] Try to implement parcel.js [Reference](parceljs.org)
 - [ ] Try to implement Turbo [Reference](https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403)
-- [ ] Setup stub data on a server
+- [ ] Setup stub back-end server [Reference](https://paucls.wordpress.com/2017/01/03/developing-with-a-stub-backend-on-angular-2/)
 - [ ] Get more book references inside the README
 - [ ] Understand and customize webpack [Reference](https://auth0.com/blog/webpack-a-gentle-introduction/)
 - [ ] Understand ngrx/effects
