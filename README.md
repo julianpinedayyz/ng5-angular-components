@@ -19,3 +19,4 @@ Components Collection
 - [ ] Understand and customize webpack [Reference](https://auth0.com/blog/webpack-a-gentle-introduction/)
 - [ ] Understand ngrx/effects
 - [ ] Try node prune [Reference](https://github.com/tj/node-prune/blob/master/Readme.md)
+- [ ] Make components accessible by default. Check image styles for when missing alt (phone image).
