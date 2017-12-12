@@ -27,3 +27,4 @@ This repo will contain different kind of setups as experiements.  They will appe
 - [ ] Make components accessible by default. Check image styles for when missing alt (phone image).
 - [ ] Deploy app to github pages [Reference](https://coursetro.com/posts/code/64/How-to-Deploy-an-Angular-App-Angular-4)
 - [ ] Configure Ahead of Time [Reference](https://juristr.com/blog/2016/12/configure-aot-with-angular-cli/)
+- [ ] Use the CLI Environment Option to setup several environments [Reference](http://tattoocoder.com/angular-cli-using-the-environment-option/)
