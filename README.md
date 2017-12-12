@@ -7,6 +7,16 @@ This repo will contain different kind of setups as experiements.  They will appe
 #### ng5-default
 Default creation of a regular app ```ng new ng5-default```
 
+#### ng5-bootstrap4-scss
+Generate with scss flag set ```ng new ng5-bootstrap4-scss --style=scss```
+
+Change and set the port number ```ng set defaults.serve.port 4201```
+
+Install boostrap as a package -> [Follow instructions](https://github.com/angular/angular-cli/wiki/stories-include-bootstrap)
+
+
+
+
 
 ## [Angular CLI](https://github.com/angular/angular-cli)
 
