@@ -1,7 +1,7 @@
 # ng5-angular-components
 Components Collection
 
-- [ ] Implement SASS
+- [ ] Implement SASS [Reference](https://scotch.io/tutorials/using-sass-with-the-angular-cli)
 - [ ] Implement Pug?
 - [ ] Load bootstrap as a module from npm
 - [ ] Remove encapsulation on components
