@@ -25,3 +25,4 @@ This repo will contain different kind of setups as experiements.  They will appe
 - [ ] Understand ngrx/effects
 - [ ] Try node prune [Reference](https://github.com/tj/node-prune/blob/master/Readme.md)
 - [ ] Make components accessible by default. Check image styles for when missing alt (phone image).
+- [ ] Deploy app to github pages [Reference](https://coursetro.com/posts/code/64/How-to-Deploy-an-Angular-App-Angular-4)
