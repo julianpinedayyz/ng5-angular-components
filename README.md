@@ -3,6 +3,11 @@
 ## Setup
 This repo will contain different kind of setups as experiements.  They will appear as tags in the repo.
 
+### Flavors
+#### ng5-default
+Default creation of a regular app ```ng new ng5-default```
+
+
 ## [Angular CLI](https://github.com/angular/angular-cli)
 
 ### Installation
