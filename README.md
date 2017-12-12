@@ -23,6 +23,9 @@ npm install -g @angular/cli
 ng help
 ```
 
+#### Using Yarn with Angular CLI
+Refer to this [link](https://medium.com/@beeman/using-yarn-with-angular-cli-db2e318e43c5) to set Yarn as your package manager.
+
 #### Generating and serving an Angular project via a development server
 
 ```bash
