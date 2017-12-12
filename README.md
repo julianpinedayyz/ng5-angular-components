@@ -1,6 +1,11 @@
 # ng5-angular-components
-Components Collection
 
+## Setup
+This repo will contain different kind of setups as experiements.  They will appear as tags in the repo.
+
+## Components Collection
+
+## TODOs
 - [ ] Implement SASS [Reference](https://scotch.io/tutorials/using-sass-with-the-angular-cli)
 - [ ] Implement Pug?
 - [ ] Load bootstrap as a module from npm
