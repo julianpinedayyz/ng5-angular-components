@@ -11,4 +11,5 @@ cat .angular-cli.json | jq '.apps[0].styles[0]="../node_modules/bootstrap/dist/c
 wait
 /bin/mv .angular-cliTemp.json .angular-cli.json
 npm install bootstrap@next --save
+## npm install the last
 # npm install
