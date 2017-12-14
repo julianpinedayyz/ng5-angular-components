@@ -121,7 +121,7 @@ You can find more details about changes between versions in [the Releases tab on
 ## Components Collection
 
 ## TODOs
-- [ ] Implement SASS [Reference](https://scotch.io/tutorials/using-sass-with-the-angular-cli)
+- [x] Implement SASS [Reference](https://scotch.io/tutorials/using-sass-with-the-angular-cli)
 - [ ] Implement Pug?
 - [ ] Load bootstrap as a module from npm
 - [ ] Remove encapsulation on components
