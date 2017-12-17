@@ -144,3 +144,4 @@ You can find more details about changes between versions in [the Releases tab on
 - [ ] Configure Ahead of Time [Reference](https://juristr.com/blog/2016/12/configure-aot-with-angular-cli/)
 - [ ] Use the CLI Environment Option to setup several environments [Reference](http://tattoocoder.com/angular-cli-using-the-environment-option/)
 - [ ] Check accessibility on components
+- [ ] Test deployment to Firebase [Reference](https://angularfirebase.com/lessons/deploying-an-angular-app-to-firebase/)
