@@ -145,3 +145,4 @@ You can find more details about changes between versions in [the Releases tab on
 - [ ] Use the CLI Environment Option to setup several environments [Reference](http://tattoocoder.com/angular-cli-using-the-environment-option/)
 - [ ] Check accessibility on components
 - [ ] Test deployment to Firebase [Reference](https://angularfirebase.com/lessons/deploying-an-angular-app-to-firebase/)
+- [ ] Test Popmotion animation library [Reference](https://popmotion.io/learn/get-started/)
