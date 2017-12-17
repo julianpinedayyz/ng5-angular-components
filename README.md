@@ -148,3 +148,4 @@ You can find more details about changes between versions in [the Releases tab on
 - [ ] Test Popmotion animation library [Reference](https://popmotion.io/learn/get-started/)
 - [ ] [Angular 5 – Material Data tables with Firestore](http://tphangout.com/angular-5-material-data-tables-with-firestore/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_230)
 - [ ] Test and Implement Redux [Link](https://medium.com/@nicotsou/tltr-redux-e4fc30f87e4a)
+- [ ] Test Neutrino [Link](https://medium.com/@eliperelman/neutrino-releasing-v8-a643f356f410)
