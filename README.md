@@ -131,9 +131,9 @@ You can find more details about changes between versions in [the Releases tab on
 ## Components Collection
 
 ## TODOs
-- [ ] Implement SASS [Reference](https://scotch.io/tutorials/using-sass-with-the-angular-cli)
+- [x] Implement SASS [Reference](https://scotch.io/tutorials/using-sass-with-the-angular-cli)
 - [ ] Implement Pug?
-- [ ] Load bootstrap as a module from npm
+- [x] Load bootstrap as a module from npm
 - [ ] Remove encapsulation on components
 - [ ] Create a shared module and reusable components
 - [ ] Create an animation factory
@@ -153,3 +153,12 @@ You can find more details about changes between versions in [the Releases tab on
 - [ ] Deploy app to github pages [Reference](https://coursetro.com/posts/code/64/How-to-Deploy-an-Angular-App-Angular-4)
 - [ ] Configure Ahead of Time [Reference](https://juristr.com/blog/2016/12/configure-aot-with-angular-cli/)
 - [ ] Use the CLI Environment Option to setup several environments [Reference](http://tattoocoder.com/angular-cli-using-the-environment-option/)
+- [ ] Check accessibility on components
+- [ ] Test deployment to Firebase [Reference](https://angularfirebase.com/lessons/deploying-an-angular-app-to-firebase/) [Tutorial](https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase)
+- [ ] Test Popmotion animation library [Reference](https://popmotion.io/learn/get-started/)
+- [ ] [Angular 5 – Material Data tables with Firestore](http://tphangout.com/angular-5-material-data-tables-with-firestore/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_230)
+- [ ] Test and Implement Redux [Link](https://medium.com/@nicotsou/tltr-redux-e4fc30f87e4a), [Todd Motto Tutorial](https://toddmotto.com/redux-typescript-store)
+- [ ] Test Neutrino [Link](https://medium.com/@eliperelman/neutrino-releasing-v8-a643f356f410)
+- [ ] Integrate REACT and Angular
+- [ ] Try to develop a MEAN app [Link](https://www.sitepoint.com/mean-stack-angular-2-angular-cli/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_213)
+- [ ] Review and follow the Front-End Checklist [Link](https://github.com/thedaviddias/Front-End-Checklist)
