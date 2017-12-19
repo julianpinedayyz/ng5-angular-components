@@ -150,3 +150,4 @@ You can find more details about changes between versions in [the Releases tab on
 - [ ] Test and Implement Redux [Link](https://medium.com/@nicotsou/tltr-redux-e4fc30f87e4a), [Todd Motto Tutorial](https://toddmotto.com/redux-typescript-store)
 - [ ] Test Neutrino [Link](https://medium.com/@eliperelman/neutrino-releasing-v8-a643f356f410)
 - [ ] Try to develop a MEAN app [Link](https://www.sitepoint.com/mean-stack-angular-2-angular-cli/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_213)
+- [ ] Review and follow the Front-End Checklist [Link](https://github.com/thedaviddias/Front-End-Checklist)
