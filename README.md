@@ -39,6 +39,13 @@ ng help
 ng new project_name --ng4
 ```
 
+#### Using css preprocessors
+
+```bash
+ng new project_name --style={scss , sass , less or styl }
+ng init project_name --style={scss , sass , less or styl }
+```
+
 #### Using Yarn with Angular CLI
 
 [Yarn Documentation](https://yarnpkg.com/en/)
