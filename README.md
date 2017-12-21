@@ -76,6 +76,19 @@ ng serve --proxy-config proxy.config.json
 ng serve -pc proxy.config.json
 ```
 
+#### Add CSS/JavaScript third party libraries
+open ```angular-cli.json``` add location of your third party library inside styles array for css or scripts for JavaScript libraries
+
+```
+        "styles": [
+            "../node_modules/bootstrap/dist/css/bootstrap.css",
+            "styles.css"
+        ],
+        "scripts": [
+            "../node_modules/moment/src/moment.js"
+        ],
+```
+
 #### Using Yarn with Angular CLI
 
 [Yarn Documentation](https://yarnpkg.com/en/)
