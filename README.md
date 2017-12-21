@@ -46,6 +46,13 @@ ng new project_name --style={scss , sass , less or styl }
 ng init project_name --style={scss , sass , less or styl }
 ```
 
+#### Sourcemaps for css or any preprocessor files
+
+```bash
+ng serve -sm -ec
+ng serve --sourcemap --extractCss
+```
+
 #### Using Yarn with Angular CLI
 
 [Yarn Documentation](https://yarnpkg.com/en/)
