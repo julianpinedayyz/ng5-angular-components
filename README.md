@@ -1,5 +1,10 @@
 # ng5-angular-components
 
+## Resources
+1. [Awesome Angular](https://github.com/gdi2290/awesome-angular).  Mostly Angular 2.
+2. [Angular 2+ Components & Libraries](https://github.com/brillout/awesome-angular-components)
+3. [11 Angular Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-angular-component-libraries-you-should-know-in-2018-e9f9c9d544ff)
+
 ## Setup
 This repo will contain different kind of setups as experiements.  They will appear as tags in the repo.
 
