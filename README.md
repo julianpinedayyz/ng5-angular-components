@@ -23,6 +23,12 @@ npm install -g @angular/cli
 ng help
 ```
 
+#### Using Angular 4
+
+```bash
+ng new project_name --ng4
+```
+
 #### Using Yarn with Angular CLI
 
 [Yarn Documentation](https://yarnpkg.com/en/)
