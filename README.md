@@ -43,6 +43,29 @@ ng serve -sm -ec
 ng serve --sourcemap --extractCss
 ```
 
+#### Proxy option
+If your server side lives under different host with Angular CLI you can easily define proxy configuration
+
+Create a json file (```proxy.config.json``` for example) with that configuration.
+
+```
+{
+    "/api/*": {
+        "target": "http://test.dev",
+        "changeOrigin": true,
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
+```
+
+Then run:
+
+```bash
+ng serve --proxy-config proxy.config.json
+ng serve -pc proxy.config.json
+```
+
 #### Using Yarn with Angular CLI
 
 [Yarn Documentation](https://yarnpkg.com/en/)
