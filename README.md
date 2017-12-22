@@ -201,6 +201,7 @@ You can find more details about changes between versions in [the Releases tab on
 - [ ] Understand ngrx/effects
 - [ ] Try node prune [Reference](https://github.com/tj/node-prune/blob/master/Readme.md)
 - [ ] Make components accessible by default. Check image styles for when missing alt (phone image).
+- [ ] [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/?utm_source=frontendfocus&utm_medium=email)
 - [ ] Deploy app to github pages [Reference](https://coursetro.com/posts/code/64/How-to-Deploy-an-Angular-App-Angular-4)
 - [ ] Configure Ahead of Time [Reference](https://juristr.com/blog/2016/12/configure-aot-with-angular-cli/)
 - [ ] Use the CLI Environment Option to setup several environments [Reference](http://tattoocoder.com/angular-cli-using-the-environment-option/)
