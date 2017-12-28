@@ -219,3 +219,4 @@ You can find more details about changes between versions in [the Releases tab on
 - [ ] Review and follow the Front-End Checklist [Link](https://github.com/thedaviddias/Front-End-Checklist)
 - [ ] Build an intelligent GRID with CSS Grid [Grid reference](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098)
 - [ ] Write tests for components [Tutorial](https://aspnetmonsters.com/2017/12/2017-11-20-angular-testing/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_233)
+- [ ] Test Angular + Go [Tutorial](https://www.codementor.io/anshulsanghi/getting-started-with-angular-and-go-setting-up-a-boilerplate-project-f1xzhcnqj?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_233)
