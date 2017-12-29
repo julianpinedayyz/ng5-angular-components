@@ -220,3 +220,5 @@ You can find more details about changes between versions in [the Releases tab on
 - [ ] Build an intelligent GRID with CSS Grid [Grid reference](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098)
 - [ ] Write tests for components [Tutorial](https://aspnetmonsters.com/2017/12/2017-11-20-angular-testing/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_233)
 - [ ] Test Angular + Go [Tutorial](https://www.codementor.io/anshulsanghi/getting-started-with-angular-and-go-setting-up-a-boilerplate-project-f1xzhcnqj?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_233)
+- [ ] UI Experiments
+    - [ ] Dashboard [Tutorial](https://medium.com/@nima_ap/creating-a-responsive-dashboard-in-angular-5-from-scratch-147f6a493d9e)
