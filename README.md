@@ -222,3 +222,4 @@ You can find more details about changes between versions in [the Releases tab on
 - [ ] Test Angular + Go [Tutorial](https://www.codementor.io/anshulsanghi/getting-started-with-angular-and-go-setting-up-a-boilerplate-project-f1xzhcnqj?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_233)
 - [ ] UI Experiments
     - [ ] Dashboard [Tutorial](https://medium.com/@nima_ap/creating-a-responsive-dashboard-in-angular-5-from-scratch-147f6a493d9e)
+    - [ ] Choose your own adventure App (From books)
