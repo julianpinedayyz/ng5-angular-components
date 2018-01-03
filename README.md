@@ -223,4 +223,4 @@ You can find more details about changes between versions in [the Releases tab on
 - [ ] UI Experiments
     - [ ] Dashboard [Tutorial](https://medium.com/@nima_ap/creating-a-responsive-dashboard-in-angular-5-from-scratch-147f6a493d9e)
     - [ ] Choose your own adventure App (From books)
-- [ ] Another Angular Tutorial (looks good) [Link](https://medium.com/@jawache/my-angular-5-course-is-now-free-merry-christmas-662510c3c993)
+- [ ] Angular 5 Tutorial (looks good) [Link](https://medium.com/@jawache/my-angular-5-course-is-now-free-merry-christmas-662510c3c993)
